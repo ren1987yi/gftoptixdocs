@@ -1,1 +1,12 @@
-site_name: My Docs
+site_name: FTOptix Docs
+theme:
+  name: 'material'
+nav:
+  - 主页: index.md
+  - 使用说明:
+    - aa : index.md
+  - 最佳实践:
+    - aa : index.md
+  - 代码库:
+    - aa : index.md
+  - 关于: about.md
