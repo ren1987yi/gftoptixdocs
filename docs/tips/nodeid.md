@@ -1,4 +1,4 @@
-**理解 Alias, NodePointer and NodeId variable**
+
 
 * Variable of type NodeId : is a pointer to any element of the project, the Value property of this variable contains the NodeId of the target element,this is the simplest type of pointer(and the most similar to the pointer concept of programming languages)
 

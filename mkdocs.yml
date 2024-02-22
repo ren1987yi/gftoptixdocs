@@ -4,16 +4,16 @@ theme:
 nav:
   - 主页: index.md
   - 使用说明: 
-    - Home : manual\index.md
+    # - Home : manual\index.md
     - 部署:
-      - Windows: manual\index.md
+      # - Windows: manual\index.md
       - Ubuntu:
         - Runtime: manual\deploy\ubuntu\ubuntu_runtime_procedure.md
         - License: manual\deploy\ubuntu\ubuntu_license_client_procedure.md
   - 最佳实践:
     - Home : best_practices\index.md
   - 代码库:
-    - Home : code\index.md
+    - 库列表 : code\library.md
   - 小知识:
     - 理解 Alias, NodePointer and NodeId variable: tips\nodeid.md
     - Dialog打开时传送多个Alias: tips\Dialog传送多个Alias.md
