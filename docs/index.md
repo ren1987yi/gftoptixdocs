@@ -19,15 +19,30 @@
 
 ### 演示项目
 
-- [Optix_Toolkit](/attchs/Optix_Toolkit.optix.z) 
+1. **Optix_Toolkit** [下载](/attchs/Optix_Toolkit.optix.z) 
   - 一些新框架，新技术的演示项目
-- [Web应用](/attchs/LICS_V4.optix.z) 
+
+
+  - 嵌入Threejs 、双向通讯、事件响应
+  - 嵌入 Excel Sheet
+  
+  截图
+
+  ![alt text](image.png)
+
+  ![alt text](image-1.png)
+
+
+
+2. **Web应用** [下载](/attchs/LICS_V4.optix.z) 
   -  演示通过浏览器控件，扩展Web应用： 3D,Chart
   -  Rest API 和 WebSocket 进行后台数据交互
 
+  截图
+  
+  ![alt text](11-1.png)
 
-
-
+  ![alt text](33-1.png)
 
 ### Bug提交
 

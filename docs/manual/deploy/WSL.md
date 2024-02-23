@@ -41,10 +41,14 @@ wsl --install -d Ubuntu
 
 
 内核信息
+
 ```
 cat /proc/version
 ```
+
+
 分支信息
+
 ```
 lsb_release -a 
 ```
@@ -53,6 +57,7 @@ lsb_release -a
 ### 3.依赖升级
 
 命令行
+
 ```
 sudo apt-get update
 
@@ -77,6 +82,7 @@ sudo apt-get install -y curl openssh-server ca-certificates tzdata perl
 
 
 - 复制到wsl中
+- 
 ![](imgs/wsl/copy.png)
 
 - 修改FTOptixRuntime的运行权限
@@ -85,13 +91,15 @@ sudo apt-get install -y curl openssh-server ca-certificates tzdata perl
 ![](imgs/wsl/cd1.png)
 
     - 修改权限
-  ```
+  
+```
   改权限
   sudo chmod +x ./FTOptixRuntime
   
   检查权限
   ls -l FTOptixRuntime
-  ```
+```
+
 ![](imgs/wsl/chmod.png)
 
 
@@ -100,6 +108,8 @@ sudo apt-get install -y curl openssh-server ca-certificates tzdata perl
 ```
 ./FTOptixRuntime
 ```
+
+
 如果没有出错信息，就可在 本机上通过浏览器进入到Application中
 效果如下:
 
