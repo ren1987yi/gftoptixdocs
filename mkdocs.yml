@@ -3,17 +3,18 @@ theme:
   name: material
 nav:
   - 主页: index.md
-  - 使用说明: 
-    # - Home : manual\index.md
+  - 操作说明: 
+    - 引用第三方库: manual\引用第三方库.md
     - 部署:
-      # - Windows: manual\index.md
+      - WSL : manual\deploy\WSL.md
       - Ubuntu:
         - Runtime: manual\deploy\ubuntu\ubuntu_runtime_procedure.md
         - License: manual\deploy\ubuntu\ubuntu_license_client_procedure.md
   - 最佳实践:
     - Home : best_practices\index.md
   - 代码库:
-    - 库列表 : code\library.md
+    - 代码片段 : code\一些代码片段.md
+    - 程序包 : code\library.md
   - 小知识:
     - 理解 Alias, NodePointer and NodeId variable: tips\nodeid.md
     - Dialog打开时传送多个Alias: tips\Dialog传送多个Alias.md

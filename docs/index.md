@@ -19,13 +19,17 @@
 
 ### 演示项目
 
-- [Optix_Toolkit](/attchs/Optix_Toolkit.optix.z) : 一些新框架，新技术的演示项目
+- [Optix_Toolkit](/attchs/Optix_Toolkit.optix.z) 
+  - 一些新框架，新技术的演示项目
+- [Web应用](/attchs/LICS_V4.optix.z) 
+  -  演示通过浏览器控件，扩展Web应用： 3D,Chart
+  -  Rest API 和 WebSocket 进行后台数据交互
 
 
 
 
 
-### 联系方式
+### Bug提交
 
 - EMail : yi.ren@rockwellautomation.com
 
