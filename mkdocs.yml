@@ -11,7 +11,7 @@ nav:
         - Runtime: manual\deploy\ubuntu\ubuntu_runtime_procedure.md
         - License: manual\deploy\ubuntu\ubuntu_license_client_procedure.md
   - 最佳实践:
-    - Home : best_practices\index.md
+    - 注释及文档 : best_practices\docfx使用\构建项目文档.md
   - 代码库:
     - 代码片段 : code\一些代码片段.md
     - 程序包 : code\library.md
