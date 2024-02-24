@@ -1,4 +1,9 @@
 site_name: FTOptix Docs
+repo_url: https://github.com/Rockwell-China-GOTC/FTOptixDocs.git
+repo_name: 'GitHub'
+site_author: 'Jason Renyi'
+copyright: 'Copyright © China GOTC. All rights reserved.'
+
 theme:
   name: material
 nav:
