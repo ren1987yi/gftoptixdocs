@@ -24,4 +24,5 @@ nav:
     - 理解 Alias, NodePointer and NodeId variable: tips\nodeid.md
     - Dialog打开时传送多个Alias: tips\Dialog传送多个Alias.md
     - 开发器结构: tips\开发器结构.md
+    - URL定位Window : tips\web_engine.mds
   - 关于: about.md
